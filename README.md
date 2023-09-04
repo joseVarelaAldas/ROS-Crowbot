@@ -1,3 +1,4 @@
+To use this tool noetic ROS with python dependencies is required
 # ROS-Crowbot Installation
 Upload the arduino program to the Crowbot robot (install the necessary libraries and setup network data).
 
@@ -13,6 +14,7 @@ Run rosserial TCP bridge (new terminal).
 ```
 rosrun rosserial_python serial_node.py tcp
 ```
+Testing code o run examples.
 # Testing
 To control the RGB LEDs.
 ```
