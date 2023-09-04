@@ -1,5 +1,5 @@
 To use this tool noetic ROS with python dependencies is required
-# ROS-Crowbot Installation
+# ROS-Crowbot preparation
 Upload the arduino program to the Crowbot robot (install the necessary libraries and setup network data).
 
 Install rosserial for ubuntu 20.04 (noetic).
