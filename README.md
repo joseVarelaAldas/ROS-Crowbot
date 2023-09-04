@@ -41,6 +41,10 @@ angular:
   y: 0.0
   z: 0.0"
 ```
+To control the buzzer.
+```
+rostopic pub /Buzzer  std_msgs/Bool "data: true"
+```
 To read sensors (Example with distance).
 ```
 rostopic echo /Distance
